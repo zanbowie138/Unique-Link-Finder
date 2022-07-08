@@ -5,5 +5,12 @@ The program starts by searching the starting website for all links starting with
 
 
 
+## Prequisites:
 
+Must have python installed
+
+    python -m pip install requests
+    python -m pip install bs4
+
+## Edit Settings
 The variable in main.py called starting_website can change the website that is first searched.
